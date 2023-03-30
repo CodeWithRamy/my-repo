@@ -31,3 +31,13 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 See the section on [`code`](#code).
 
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+```html
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h1>Hi</h1>
+    </body>
+</html>
+```
